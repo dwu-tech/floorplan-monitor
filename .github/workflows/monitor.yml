@@ -1,0 +1,59 @@
+name: Floor-plan monitor
+
+on:
+  # GitHub's scheduler has a 5-min minimum and is often delayed, so each run
+  # internally loops (see LOOP_MINUTES) to get reliable, frequent checks.
+  # A run at :00 covers the gap until the next scheduled run.
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+
+# Never run two monitors at once; queue instead of overlapping.
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write # needed to commit the snapshot + history back to the repo
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      TARGET_URL: ${{ secrets.TARGET_URL }} # the page to watch (set as a repo secret)
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      MONITOR_NAME: ${{ vars.MONITOR_NAME }} # optional label used in alerts
+      TZ: ${{ vars.TZ || 'UTC' }} # optional; e.g. set repo variable TZ=America/New_York
+      CHECK_INTERVAL_SECONDS: "300" # how often to check within a run (min ~120)
+      LOOP_MINUTES: "28" # how long one run keeps looping (< the 30-min cron gap)
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: npx playwright install --with-deps chromium
+
+      - name: Monitor loop
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          END=$(( SECONDS + LOOP_MINUTES * 60 ))
+          while :; do
+            node monitor.mjs || echo "check failed this iteration, continuing"
+
+            if [[ -n "$(git status --porcelain snapshots history.md)" ]]; then
+              git add snapshots history.md
+              git commit -m "Change detected ($(date -u +%FT%TZ))"
+              git pull --rebase --autostash || true
+              git push || echo "push failed, will retry next iteration"
+            fi
+
+            # Stop looping if the next iteration would exceed our window.
+            [[ $(( SECONDS + CHECK_INTERVAL_SECONDS )) -ge $END ]] && break
+            sleep "$CHECK_INTERVAL_SECONDS"
+          done
