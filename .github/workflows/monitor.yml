@@ -1,9 +1,12 @@
 name: Floor-plan monitor
 
 on:
-  # GitHub's scheduler has a 5-min minimum and is often delayed, so each run
-  # internally loops (see LOOP_MINUTES) to get reliable, frequent checks.
-  # A run at :00 covers the gap until the next scheduled run.
+  # GitHub's scheduler is heavily throttled/delayed (a "*/30" cron really fires
+  # closer to hourly), so we DON'T rely on cron frequency. Instead each run
+  # loops internally for ~5.5h (LOOP_MINUTES), checking every few minutes. The
+  # cron just keeps a run queued (via the concurrency group below) so the next
+  # one takes over the instant the current ~5.5h run ends -> near-continuous
+  # coverage regardless of scheduler delays.
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
@@ -19,13 +22,14 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    timeout-minutes: 350 # under GitHub's 6h (360m) job cap, leaving margin for setup
     env:
       TARGET_URL: ${{ secrets.TARGET_URL }} # the page to watch (set as a repo secret)
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       MONITOR_NAME: ${{ vars.MONITOR_NAME }} # optional label used in alerts
       TZ: ${{ vars.TZ || 'UTC' }} # optional; e.g. set repo variable TZ=America/New_York
       CHECK_INTERVAL_SECONDS: "300" # how often to check within a run (min ~120)
-      LOOP_MINUTES: "28" # how long one run keeps looping (< the 30-min cron gap)
+      LOOP_MINUTES: "330" # how long one run keeps looping (~5.5h, just under the job cap)
     steps:
       - uses: actions/checkout@v4
 
