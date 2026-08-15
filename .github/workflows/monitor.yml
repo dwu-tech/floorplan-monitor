@@ -8,7 +8,7 @@ on:
   # one takes over the instant the current ~5.5h run ends -> near-continuous
   # coverage regardless of scheduler delays.
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
 
 # Never run two monitors at once; queue instead of overlapping.
