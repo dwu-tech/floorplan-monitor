@@ -52,7 +52,7 @@
     "name": "5-30 B",
     "layout": "1 Bed | 1 Bath | 667 sq. ft.",
     "available": true,
-    "units": 1,
+    "units": 2,
     "price": "$4,390+/month"
   },
   "5-31 D": {
@@ -60,7 +60,7 @@
     "layout": "1 Bed | 1 Bath | 663 sq. ft.",
     "available": true,
     "units": 1,
-    "price": "$-1+/month"
+    "price": "$4,436+/month"
   },
   "4-45 F": {
     "name": "4-45 F",
