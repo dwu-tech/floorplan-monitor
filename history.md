@@ -13,3 +13,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - ⛔ **5-45 G** is no longer available
 - ✅ **47-57 A** is now AVAILABLE (2 Beds | 2 Baths | 940 sq. ft.) · 1 unit(s) · $5,908+/month
 - 💲 **47-57 A** price changed: n/a → $5,908+/month
+
+## Aug 17, 2026, 12:08 AM
+
+- ⛔ **47-57 A** is no longer available
+- ⛔ **5-30 B** is no longer available
