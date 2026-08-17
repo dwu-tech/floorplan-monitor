@@ -58,9 +58,9 @@
   "5-31 D": {
     "name": "5-31 D",
     "layout": "1 Bed | 1 Bath | 663 sq. ft.",
-    "available": true,
-    "units": 1,
-    "price": "$4,436+/month"
+    "available": false,
+    "units": 0,
+    "price": null
   },
   "4-45 F": {
     "name": "4-45 F",

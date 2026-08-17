@@ -18,3 +18,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ⛔ **47-57 A** is no longer available
 - ⛔ **5-30 B** is no longer available
+
+## Aug 17, 2026, 9:32 PM
+
+- ⛔ **5-31 D** is no longer available
