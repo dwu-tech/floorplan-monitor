@@ -22,3 +22,12 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Aug 17, 2026, 9:32 PM
 
 - ⛔ **5-31 D** is no longer available
+
+## Aug 18, 2026, 10:39 PM
+
+- ❌ Removed floor plan **32-57 C**
+- ❌ Removed floor plan **32-57 D**
+- ❌ Removed floor plan **32-57 E**
+- ❌ Removed floor plan **17-45 K**
+- ✅ **5-30 B** is now AVAILABLE (1 Bed | 1 Bath | 667 sq. ft.) · 1 unit(s) · $4,390+/month
+- 💲 **5-30 B** price changed: n/a → $4,390+/month

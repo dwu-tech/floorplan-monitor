@@ -6,30 +6,9 @@
     "units": 0,
     "price": null
   },
-  "32-57 C": {
-    "name": "32-57 C",
-    "layout": "3 Beds | 2 Baths | 1,305 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "32-57 D": {
-    "name": "32-57 D",
-    "layout": "2 Beds | 2 Baths | 1,036 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
   "47-57 A": {
     "name": "47-57 A",
     "layout": "2 Beds | 2 Baths | 940 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "32-57 E": {
-    "name": "32-57 E",
-    "layout": "Studio | 0 Bath | | 427 sq. ft.",
     "available": false,
     "units": 0,
     "price": null
@@ -41,19 +20,12 @@
     "units": 1,
     "price": "$4,394+/month"
   },
-  "17-45 K": {
-    "name": "17-45 K",
-    "layout": "Studio | 1 Bath | 528 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
   "5-30 B": {
     "name": "5-30 B",
     "layout": "1 Bed | 1 Bath | 667 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
+    "available": true,
+    "units": 1,
+    "price": "$4,390+/month"
   },
   "5-31 D": {
     "name": "5-31 D",
