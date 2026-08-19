@@ -31,3 +31,9 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - ❌ Removed floor plan **17-45 K**
 - ✅ **5-30 B** is now AVAILABLE (1 Bed | 1 Bath | 667 sq. ft.) · 1 unit(s) · $4,390+/month
 - 💲 **5-30 B** price changed: n/a → $4,390+/month
+
+## Aug 19, 2026, 8:45 PM
+
+- ✅ **5-45 G** is now AVAILABLE (Studio | 1 Bath | 428 sq. ft.) · 1 unit(s) · $3,786+/month
+- 💲 **5-45 G** price changed: n/a → $3,786+/month
+- 🔢 **5-30 B** availability changed: 1 → 2 unit(s)
