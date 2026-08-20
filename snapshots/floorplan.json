@@ -16,9 +16,9 @@
   "17-45 J": {
     "name": "17-45 J",
     "layout": "1 Bed | 1 Bath | 668 sq. ft.",
-    "available": true,
-    "units": 1,
-    "price": "$4,394+/month"
+    "available": false,
+    "units": 0,
+    "price": null
   },
   "5-30 B": {
     "name": "5-30 B",
