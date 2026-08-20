@@ -41,3 +41,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Aug 20, 2026, 12:10 AM
 
 - ⛔ **17-45 J** is no longer available
+
+## Aug 20, 2026, 7:09 PM
+
+- ⛔ **5-45 G** is no longer available
