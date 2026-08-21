@@ -45,3 +45,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Aug 20, 2026, 7:09 PM
 
 - ⛔ **5-45 G** is no longer available
+
+## Aug 21, 2026, 9:09 PM
+
+- 🔢 **5-30 B** availability changed: 2 → 1 unit(s)
