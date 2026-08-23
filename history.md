@@ -49,3 +49,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Aug 21, 2026, 9:09 PM
 
 - 🔢 **5-30 B** availability changed: 2 → 1 unit(s)
+
+## Aug 23, 2026, 12:05 AM
+
+- ⛔ **5-30 B** is no longer available
