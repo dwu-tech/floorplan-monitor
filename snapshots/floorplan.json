@@ -23,9 +23,9 @@
   "5-30 B": {
     "name": "5-30 B",
     "layout": "1 Bed | 1 Bath | 667 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
+    "available": true,
+    "units": 1,
+    "price": "$-1+/month"
   },
   "5-31 D": {
     "name": "5-31 D",
