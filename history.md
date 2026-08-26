@@ -58,3 +58,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **5-30 B** is now AVAILABLE (1 Bed | 1 Bath | 667 sq. ft.) · 1 unit(s) · $-1+/month
 - 💲 **5-30 B** price changed: n/a → $-1+/month
+
+## Aug 26, 2026, 12:04 AM
+
+- 💲 **5-30 B** price changed: $-1+/month → $4,470+/month
