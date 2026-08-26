@@ -62,3 +62,9 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Aug 26, 2026, 12:04 AM
 
 - 💲 **5-30 B** price changed: $-1+/month → $4,470+/month
+
+## Aug 26, 2026, 12:09 AM
+
+- 🆕 New floor plan **5-31 E** — Studio | 1 Bath | 432 sq. ft. · 1 available · $3,347+/month
+- ✅ **5-45 G** is now AVAILABLE (Studio | 1 Bath | 428 sq. ft.) · 1 unit(s) · $3,786+/month
+- 💲 **5-45 G** price changed: n/a → $3,786+/month
