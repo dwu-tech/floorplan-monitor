@@ -9,9 +9,9 @@
   "5-31 E": {
     "name": "5-31 E",
     "layout": "Studio | 1 Bath | 432 sq. ft.",
-    "available": true,
-    "units": 1,
-    "price": "$3,347+/month"
+    "available": false,
+    "units": 0,
+    "price": null
   },
   "5-31 D": {
     "name": "5-31 D",
