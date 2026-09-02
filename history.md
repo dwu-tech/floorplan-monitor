@@ -76,3 +76,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Aug 30, 2026, 12:08 AM
 
 - ⛔ **5-31 E** is no longer available
+
+## Sep 2, 2026, 12:07 AM
+
+- ✅ **5-45 G** is now AVAILABLE (Studio | 1 Bath | 428 sq. ft.) · 2 unit(s) · $3,786+/month
+- 💲 **5-45 G** price changed: n/a → $3,786+/month

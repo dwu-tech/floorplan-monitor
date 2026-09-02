@@ -2,9 +2,9 @@
   "5-45 G": {
     "name": "5-45 G",
     "layout": "Studio | 1 Bath | 428 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
+    "available": true,
+    "units": 2,
+    "price": "$3,786+/month"
   },
   "5-31 E": {
     "name": "5-31 E",
