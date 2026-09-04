@@ -81,3 +81,10 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **5-45 G** is now AVAILABLE (Studio | 1 Bath | 428 sq. ft.) · 2 unit(s) · $3,786+/month
 - 💲 **5-45 G** price changed: n/a → $3,786+/month
+
+## Sep 4, 2026, 12:03 AM
+
+- 🆕 New floor plan **32-57 C** — 3 Beds | 2 Baths | 1,305 sq. ft. · 1 available · $7,783+/month
+- ⛔ **5-45 G** is no longer available
+- ✅ **5-31 E** is now AVAILABLE (Studio | 1 Bath | 432 sq. ft.) · 1 unit(s) · $3,347+/month
+- 💲 **5-31 E** price changed: n/a → $3,347+/month
