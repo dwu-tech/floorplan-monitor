@@ -92,3 +92,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Sep 5, 2026, 12:06 AM
 
 - ⛔ **5-31 E** is no longer available
+
+## Sep 9, 2026, 12:09 AM
+
+- 🆕 New floor plan **4-16 K** — 1 Bed | 1 Bath | 726 sq. ft. · 1 available · $3,649+/month
+- 💲 **5-30 B** price changed: $4,470+/month → $4,340+/month

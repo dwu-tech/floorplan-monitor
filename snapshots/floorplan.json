@@ -25,7 +25,7 @@
     "layout": "1 Bed | 1 Bath | 667 sq. ft.",
     "available": true,
     "units": 1,
-    "price": "$4,470+/month"
+    "price": "$4,340+/month"
   },
   "47-57 A": {
     "name": "47-57 A",
@@ -40,6 +40,13 @@
     "available": false,
     "units": 0,
     "price": null
+  },
+  "4-16 K": {
+    "name": "4-16 K",
+    "layout": "1 Bed | 1 Bath | 726 sq. ft.",
+    "available": true,
+    "units": 1,
+    "price": "$3,649+/month"
   },
   "32-57 C": {
     "name": "32-57 C",
