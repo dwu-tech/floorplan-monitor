@@ -97,3 +97,10 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - 🆕 New floor plan **4-16 K** — 1 Bed | 1 Bath | 726 sq. ft. · 1 available · $3,649+/month
 - 💲 **5-30 B** price changed: $4,470+/month → $4,340+/month
+
+## Sep 10, 2026, 12:08 AM
+
+- ✅ **5-45 G** is now AVAILABLE (Studio | 1 Bath | 428 sq. ft.) · 1 unit(s) · $2,812+/month
+- 💲 **5-45 G** price changed: n/a → $2,812+/month
+- ⛔ **4-16 K** is no longer available
+- ⛔ **32-57 C** is no longer available
