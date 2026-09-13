@@ -104,3 +104,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - 💲 **5-45 G** price changed: n/a → $2,812+/month
 - ⛔ **4-16 K** is no longer available
 - ⛔ **32-57 C** is no longer available
+
+## Sep 13, 2026, 12:05 AM
+
+- ✅ **5-31 E** is now AVAILABLE (Studio | 1 Bath | 432 sq. ft.) · 1 unit(s) · $3,347+/month
+- 💲 **5-31 E** price changed: n/a → $3,347+/month
