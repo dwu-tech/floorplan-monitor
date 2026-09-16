@@ -24,7 +24,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350 # under GitHub's 6h (360m) job cap, leaving margin for setup
     env:
-      TARGET_URL: ${{ secrets.TARGET_URL }} # the page to watch (set as a repo secret)
+      TARGET_URL: ${{ secrets.TARGET_URL }} # Heatherwood marketing site (repo secret)
+      TARGET_URL_SECURECAFE: ${{ secrets.TARGET_URL_SECURECAFE }} # SecureCafe leasing portal (repo secret)
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       MONITOR_NAME: ${{ vars.MONITOR_NAME }} # optional label used in alerts
       TZ: ${{ vars.TZ || 'UTC' }} # optional; e.g. set repo variable TZ=America/New_York

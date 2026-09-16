@@ -13,15 +13,22 @@ price changes.
 
 ## How it works
 
-The target page is a JavaScript single-page app whose floor-plan data loads
+Each target page is a JavaScript single-page app whose floor-plan data loads
 after render, so `monitor.mjs` uses Playwright (headless Chrome) to render it,
-parses the "Featured Floor Plans" section into one record per plan (layout,
-availability, units, price), and diffs it against `snapshots/floorplan.json`. On
-any change (new plan, availability flip, price/unit change, removal) it alerts
-Discord, appends to `history.md`, and updates the snapshot.
+parses the plans into one record per unit (layout, availability, units, price),
+and diffs each source against its own snapshot. On any change (new plan,
+availability flip, price/unit change, removal) it sends a **source-labeled**
+Discord alert, appends to `history.md`, and updates that source's snapshot.
 
-Nothing site-specific is hardcoded — the page URL and alert label are supplied
-via configuration.
+Two sources for the same building are tracked so you can compare which reflects
+reality first (they often disagree on price and availability):
+
+- **Heatherwood marketing site** (`TARGET_URL`) → `snapshots/heatherwood.json`
+- **SecureCafe leasing portal** (`TARGET_URL_SECURECAFE`) → `snapshots/securecafe.json`
+
+Each source has its own parser (the two platforms render differently). A target
+whose URL env var is unset is skipped, so this degrades to a single-source
+monitor if you only configure one.
 
 ## Configuration
 
@@ -29,10 +36,13 @@ Set these in the repo under **Settings → Secrets and variables → Actions**:
 
 | Key | Kind | Required | Purpose |
 |---|---|---|---|
-| `TARGET_URL` | Secret | ✅ | The listing page URL to watch |
+| `TARGET_URL` | Secret | ✅ (≥1 source) | Heatherwood marketing listing page |
+| `TARGET_URL_SECURECAFE` | Secret | ✅ (≥1 source) | SecureCafe onlineleasing floorplans page |
 | `DISCORD_WEBHOOK_URL` | Secret | ✅ (for alerts) | Discord webhook to post to |
-| `MONITOR_NAME` | Variable | optional | Label shown in alerts (defaults to the URL host) |
+| `MONITOR_NAME` | Variable | optional | Label for the Heatherwood source in alerts |
 | `TZ` | Variable | optional | Timezone for history timestamps, e.g. `America/New_York` (default `UTC`) |
+
+At least one `TARGET_URL*` must be set; configure both to compare the two sources.
 
 ## Setup (one time)
 
