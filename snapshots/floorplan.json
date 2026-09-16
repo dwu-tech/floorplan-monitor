@@ -20,12 +20,26 @@
     "units": 0,
     "price": null
   },
+  "5-31 C": {
+    "name": "5-31 C",
+    "layout": "2 Beds | 2 Baths | 936 sq. ft.",
+    "available": true,
+    "units": 1,
+    "price": "$-1+/month"
+  },
   "5-30 B": {
     "name": "5-30 B",
     "layout": "1 Bed | 1 Bath | 667 sq. ft.",
     "available": true,
     "units": 1,
     "price": "$4,340+/month"
+  },
+  "4C": {
+    "name": "4C",
+    "layout": "1 Bed | 2 Baths | 775 sq. ft.",
+    "available": true,
+    "units": 1,
+    "price": "$3,988+/month"
   },
   "47-57 A": {
     "name": "47-57 A",
