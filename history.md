@@ -119,3 +119,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ⛔ **5-31 C** is no longer available
 - ⛔ **4C** is no longer available
+
+## Sep 17, 2026, 4:45 AM — SecureCafe (leasing portal)
+
+- 💲 **5-30 B** price changed: $4,340.00 → $4,470.64
