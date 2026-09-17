@@ -114,3 +114,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - 🆕 New floor plan **5-31 C** — 2 Beds | 2 Baths | 936 sq. ft. · 1 available · $-1+/month
 - 🆕 New floor plan **4C** — 1 Bed | 2 Baths | 775 sq. ft. · 1 available · $3,988+/month
+
+## Sep 17, 2026, 12:07 AM — Heatherwood (marketing site)
+
+- ⛔ **5-31 C** is no longer available
+- ⛔ **4C** is no longer available
