@@ -123,3 +123,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Sep 17, 2026, 4:45 AM — SecureCafe (leasing portal)
 
 - 💲 **5-30 B** price changed: $4,340.00 → $4,470.64
+
+## Sep 18, 2026, 4:48 AM — SecureCafe (leasing portal)
+
+- 💲 **5-30 B** price changed: $4,470.64 → $4,340.43
