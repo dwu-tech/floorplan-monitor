@@ -9,9 +9,9 @@
   "5-31 E": {
     "name": "5-31 E",
     "layout": "Studio | 432 sq.ft.",
-    "available": true,
+    "available": false,
     "units": null,
-    "price": "$3,347.26"
+    "price": null
   },
   "5-31 D": {
     "name": "5-31 D",
