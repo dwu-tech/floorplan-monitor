@@ -30,9 +30,9 @@
   "5-30 B": {
     "name": "5-30 B",
     "layout": "1 Bed | 1 Bath | 667 sq. ft.",
-    "available": true,
-    "units": 1,
-    "price": "$4,340+/month"
+    "available": false,
+    "units": 0,
+    "price": null
   },
   "4C": {
     "name": "4C",
