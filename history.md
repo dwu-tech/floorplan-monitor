@@ -143,3 +143,9 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Sep 20, 2026, 12:06 AM — Heatherwood (marketing site)
 
 - ⛔ **5-31 E** is no longer available
+
+## Sep 20, 2026, 4:47 AM — SecureCafe (leasing portal)
+
+- 💲 **5-45 G** price changed: $3,786.04 → $3,070.12
+- ✅ **5-31 C** is now AVAILABLE (2 Bed - 2 Bath | 936 sq.ft.) · $5,217.84
+- 💲 **5-31 C** price changed: n/a → $5,217.84
