@@ -157,3 +157,10 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Sep 20, 2026, 9:03 PM — SecureCafe (leasing portal)
 
 - 💲 **5-45 G** price changed: $3,070.12 → $3,786.04
+
+## Sep 23, 2026, 4:47 AM — SecureCafe (leasing portal)
+
+- ✅ **5-31 E** is now AVAILABLE (Studio | 432 sq.ft.) · $3,347.26
+- 💲 **5-31 E** price changed: n/a → $3,347.26
+- ✅ **5-30 B** is now AVAILABLE (1 Bed - 1 Bath | 667 sq.ft.) · $4,340.43
+- 💲 **5-30 B** price changed: n/a → $4,340.43
