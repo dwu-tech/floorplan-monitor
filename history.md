@@ -164,3 +164,10 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - 💲 **5-31 E** price changed: n/a → $3,347.26
 - ✅ **5-30 B** is now AVAILABLE (1 Bed - 1 Bath | 667 sq.ft.) · $4,340.43
 - 💲 **5-30 B** price changed: n/a → $4,340.43
+
+## Sep 23, 2026, 6:53 PM — Heatherwood (marketing site)
+
+- ✅ **5-31 E** is now AVAILABLE (Studio | 1 Bath | 432 sq. ft.) · 1 unit(s) · $3,347+/month
+- 💲 **5-31 E** price changed: n/a → $3,347+/month
+- ✅ **5-30 B** is now AVAILABLE (1 Bed | 1 Bath | 667 sq. ft.) · 1 unit(s) · $4,340+/month
+- 💲 **5-30 B** price changed: n/a → $4,340+/month
