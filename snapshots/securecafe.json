@@ -13,13 +13,6 @@
     "units": null,
     "price": null
   },
-  "5-31 D": {
-    "name": "5-31 D",
-    "layout": "1 Bed - 1 Bath | 663 sq.ft.",
-    "available": false,
-    "units": null,
-    "price": null
-  },
   "5-31 C": {
     "name": "5-31 C",
     "layout": "2 Bed - 2 Bath | 936 sq.ft.",
@@ -33,47 +26,5 @@
     "available": true,
     "units": null,
     "price": "$4,340.43"
-  },
-  "4C": {
-    "name": "4C",
-    "layout": "1 Bed - 2 Bath | 775 sq.ft.",
-    "available": false,
-    "units": null,
-    "price": null
-  },
-  "47-57 A": {
-    "name": "47-57 A",
-    "layout": "2 Bed - 2 Bath | 940 sq.ft.",
-    "available": false,
-    "units": null,
-    "price": null
-  },
-  "4-45 F": {
-    "name": "4-45 F",
-    "layout": "1 Bed - 1 Bath | 720 sq.ft.",
-    "available": false,
-    "units": null,
-    "price": null
-  },
-  "4-16 K": {
-    "name": "4-16 K",
-    "layout": "1 Bed - 1 Bath | 726 sq.ft.",
-    "available": false,
-    "units": null,
-    "price": null
-  },
-  "32-57 C": {
-    "name": "32-57 C",
-    "layout": "3 Bed - 2 Bath | 1,305 sq.ft.",
-    "available": false,
-    "units": null,
-    "price": null
-  },
-  "17-45 J": {
-    "name": "17-45 J",
-    "layout": "1 Bed - 1 Bath | 668 sq.ft.",
-    "available": false,
-    "units": null,
-    "price": null
   }
 }

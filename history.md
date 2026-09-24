@@ -179,3 +179,13 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Sep 24, 2026, 12:27 AM — SecureCafe (leasing portal)
 
 - ⛔ **5-31 E** is no longer available
+
+## Sep 24, 2026, 5:07 PM — SecureCafe (leasing portal)
+
+- ❌ Removed floor plan **5-31 D**
+- ❌ Removed floor plan **4C**
+- ❌ Removed floor plan **47-57 A**
+- ❌ Removed floor plan **4-45 F**
+- ❌ Removed floor plan **4-16 K**
+- ❌ Removed floor plan **32-57 C**
+- ❌ Removed floor plan **17-45 J**
