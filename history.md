@@ -199,3 +199,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - ❌ Removed floor plan **4-16 K**
 - ❌ Removed floor plan **32-57 C**
 - ❌ Removed floor plan **17-45 J**
+
+## Sep 26, 2026, 4:48 AM — SecureCafe (leasing portal)
+
+- ⛔ **5-45 G** is no longer available

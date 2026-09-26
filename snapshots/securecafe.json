@@ -2,9 +2,9 @@
   "5-45 G": {
     "name": "5-45 G",
     "layout": "Studio | 428 sq.ft.",
-    "available": true,
+    "available": false,
     "units": null,
-    "price": "$3,786.04"
+    "price": null
   },
   "5-31 E": {
     "name": "5-31 E",
