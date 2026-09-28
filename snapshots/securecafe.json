@@ -26,5 +26,12 @@
     "available": true,
     "units": null,
     "price": "$4,340.43"
+  },
+  "4C": {
+    "name": "4C",
+    "layout": "1 Bed - 2 Bath | 775 sq.ft.",
+    "available": false,
+    "units": null,
+    "price": null
   }
 }

@@ -207,3 +207,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Sep 27, 2026, 12:08 AM — Heatherwood (marketing site)
 
 - ⛔ **5-45 G** is no longer available
+
+## Sep 28, 2026, 6:11 PM — SecureCafe (leasing portal)
+
+- 🆕 New floor plan **4C** — 1 Bed - 2 Bath | 775 sq.ft. · Not available
