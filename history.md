@@ -224,3 +224,11 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Oct 2, 2026, 12:37 PM — SecureCafe (leasing portal)
 
 - ⛔ **4C** is no longer available
+
+## Oct 2, 2026, 12:42 PM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **17-45 K** — Studio | 1 Bath | 528 sq. ft. · 1 available · $-1+/month
+
+## Oct 2, 2026, 12:43 PM — SecureCafe (leasing portal)
+
+- 🆕 New floor plan **17-45 K** — Studio | 528 sq.ft. · Not available

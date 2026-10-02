@@ -33,5 +33,12 @@
     "available": false,
     "units": null,
     "price": null
+  },
+  "17-45 K": {
+    "name": "17-45 K",
+    "layout": "Studio | 528 sq.ft.",
+    "available": false,
+    "units": null,
+    "price": null
   }
 }
