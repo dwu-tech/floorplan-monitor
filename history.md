@@ -215,3 +215,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Sep 29, 2026, 12:05 AM — Heatherwood (marketing site)
 
 - 🆕 New floor plan **Not Available** — 1 Bed | 2 Baths | 775 sq. ft. · Not available
+
+## Oct 2, 2026, 4:47 AM — SecureCafe (leasing portal)
+
+- ✅ **4C** is now AVAILABLE (1 Bed - 2 Bath | 775 sq.ft.) · $3,872.69
+- 💲 **4C** price changed: n/a → $3,872.69
