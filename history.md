@@ -237,3 +237,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **17-45 K** is now AVAILABLE (Studio | 528 sq.ft.) · $3,786.04
 - 💲 **17-45 K** price changed: n/a → $3,786.04
+
+## Oct 3, 2026, 5:31 AM — Heatherwood (marketing site)
+
+- 💲 **17-45 K** price changed: $-1+/month → $3,786+/month
