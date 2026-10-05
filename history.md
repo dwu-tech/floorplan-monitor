@@ -241,3 +241,14 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Oct 3, 2026, 5:31 AM — Heatherwood (marketing site)
 
 - 💲 **17-45 K** price changed: $-1+/month → $3,786+/month
+
+## Oct 5, 2026, 1:17 AM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **1 Bedroom - J, K, L, & R Line** — 1 Bed | 1 Bath | 689 sq. ft. · Not available
+- 🆕 New floor plan **1 Bedroom - Large L Line** — 1 Bed | 1 Bath | 728 sq. ft. · Not available
+- ❌ Removed floor plan **5-45 G**
+- ❌ Removed floor plan **5-31 E**
+- ❌ Removed floor plan **5-31 C**
+- ❌ Removed floor plan **5-30 B**
+- ❌ Removed floor plan **Not Available**
+- ❌ Removed floor plan **17-45 K**
