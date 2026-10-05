@@ -1,16 +1,44 @@
 {
-  "1 Bedroom - J, K, L, & R Line": {
-    "name": "1 Bedroom - J, K, L, & R Line",
-    "layout": "1 Bed | 1 Bath | 689 sq. ft.",
+  "5-45 G": {
+    "name": "5-45 G",
+    "layout": "Studio | 1 Bath | 428 sq. ft.",
     "available": false,
     "units": 0,
     "price": null
   },
-  "1 Bedroom - Large L Line": {
-    "name": "1 Bedroom - Large L Line",
-    "layout": "1 Bed | 1 Bath | 728 sq. ft.",
+  "5-31 E": {
+    "name": "5-31 E",
+    "layout": "Studio | 1 Bath | 432 sq. ft.",
     "available": false,
     "units": 0,
     "price": null
+  },
+  "5-31 C": {
+    "name": "5-31 C",
+    "layout": "2 Beds | 2 Baths | 936 sq. ft.",
+    "available": false,
+    "units": 0,
+    "price": null
+  },
+  "5-30 B": {
+    "name": "5-30 B",
+    "layout": "1 Bed | 1 Bath | 667 sq. ft.",
+    "available": true,
+    "units": 1,
+    "price": "$4,340+/month"
+  },
+  "Not Available": {
+    "name": "Not Available",
+    "layout": "1 Bed | 2 Baths | 775 sq. ft.",
+    "available": false,
+    "units": 0,
+    "price": null
+  },
+  "17-45 K": {
+    "name": "17-45 K",
+    "layout": "Studio | 1 Bath | 528 sq. ft.",
+    "available": true,
+    "units": 1,
+    "price": "$3,786+/month"
   }
 }

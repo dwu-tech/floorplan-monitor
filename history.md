@@ -252,3 +252,14 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - ❌ Removed floor plan **5-30 B**
 - ❌ Removed floor plan **Not Available**
 - ❌ Removed floor plan **17-45 K**
+
+## Oct 5, 2026, 1:23 AM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **5-45 G** — Studio | 1 Bath | 428 sq. ft. · Not available
+- 🆕 New floor plan **5-31 E** — Studio | 1 Bath | 432 sq. ft. · Not available
+- 🆕 New floor plan **5-31 C** — 2 Beds | 2 Baths | 936 sq. ft. · Not available
+- 🆕 New floor plan **5-30 B** — 1 Bed | 1 Bath | 667 sq. ft. · 1 available · $4,340+/month
+- 🆕 New floor plan **Not Available** — 1 Bed | 2 Baths | 775 sq. ft. · Not available
+- 🆕 New floor plan **17-45 K** — Studio | 1 Bath | 528 sq. ft. · 1 available · $3,786+/month
+- ❌ Removed floor plan **1 Bedroom - J, K, L, & R Line**
+- ❌ Removed floor plan **1 Bedroom - Large L Line**
