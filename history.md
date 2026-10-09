@@ -263,3 +263,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - 🆕 New floor plan **17-45 K** — Studio | 1 Bath | 528 sq. ft. · 1 available · $3,786+/month
 - ❌ Removed floor plan **1 Bedroom - J, K, L, & R Line**
 - ❌ Removed floor plan **1 Bedroom - Large L Line**
+
+## Oct 9, 2026, 7:56 PM — SecureCafe (leasing portal)
+
+- ❌ Removed floor plan **5-45 G**
+- ❌ Removed floor plan **5-31 C**
