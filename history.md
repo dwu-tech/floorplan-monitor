@@ -268,3 +268,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ❌ Removed floor plan **5-45 G**
 - ❌ Removed floor plan **5-31 C**
+
+## Oct 10, 2026, 12:07 AM — Heatherwood (marketing site)
+
+- ❌ Removed floor plan **5-45 G**
+- ❌ Removed floor plan **5-31 C**

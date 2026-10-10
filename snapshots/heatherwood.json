@@ -1,21 +1,7 @@
 {
-  "5-45 G": {
-    "name": "5-45 G",
-    "layout": "Studio | 1 Bath | 428 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
   "5-31 E": {
     "name": "5-31 E",
     "layout": "Studio | 1 Bath | 432 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "5-31 C": {
-    "name": "5-31 C",
-    "layout": "2 Beds | 2 Baths | 936 sq. ft.",
     "available": false,
     "units": 0,
     "price": null
