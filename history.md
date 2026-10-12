@@ -295,3 +295,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **5-30 B** is now AVAILABLE (1 Bed | 1 Bath | 667 sq. ft.) · 1 unit(s) · $4,340+/month
 - 💲 **5-30 B** price changed: n/a → $4,340+/month
+
+## Oct 12, 2026, 11:26 PM — Heatherwood (marketing site)
+
+- ⛔ **5-30 B** is no longer available
