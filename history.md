@@ -304,3 +304,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **4C** is now AVAILABLE (1 Bed - 2 Bath | 775 sq.ft.) · $3,872.69
 - 💲 **4C** price changed: n/a → $3,872.69
+
+## Oct 14, 2026, 8:33 AM — SecureCafe (leasing portal)
+
+- ⛔ **4C** is no longer available
