@@ -308,3 +308,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Oct 14, 2026, 8:33 AM — SecureCafe (leasing portal)
 
 - ⛔ **4C** is no longer available
+
+## Oct 15, 2026, 6:11 AM — Heatherwood (marketing site)
+
+- ✅ **5-30 B** is now AVAILABLE (1 Bed | 1 Bath | 667 sq. ft.) · 1 unit(s) · $4,340+/month
+- 💲 **5-30 B** price changed: n/a → $4,340+/month
