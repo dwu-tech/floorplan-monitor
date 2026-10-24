@@ -322,3 +322,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Oct 23, 2026, 11:25 PM — SecureCafe (leasing portal)
 
 - ⛔ **17-45 K** is no longer available
+
+## Oct 24, 2026, 12:03 AM — Heatherwood (marketing site)
+
+- ⛔ **17-45 K** is no longer available
