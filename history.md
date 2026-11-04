@@ -334,3 +334,42 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Nov 2, 2026, 5:22 PM — Heatherwood (marketing site)
 
 - ⛔ **5-30 B** is no longer available
+
+## Nov 4, 2026, 2:14 AM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **Studio - S2** — Studio | 1 Bath | 593 sq. ft. · Not available
+- 🆕 New floor plan **1 Bed, 1 Bath - A1** — 1 Bed | 1 Bath | 690 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed 2 Bath - B8** — 2 Beds | 2 Baths | 1,167 sq. ft. · 7 available · $4,369+/month
+- 🆕 New floor plan **3 Bed, 2 Bath - C3** — 3 Beds | 2 Baths | 1,482 sq. ft. · 5 available · $5,967+/month
+- 🆕 New floor plan **Heritage Select Townhome - C6T** — 3 Beds | 2.5 Baths | 2,412 sq. ft. · Not available
+- 🆕 New floor plan **Studio- S1** — Studio | 1 Bath | 530 sq. ft. · 1 available · $2,984+/month
+- 🆕 New floor plan **1 Bed, 1 Bath - A2** — 1 Bed | 1 Bath | 743-748 sq. ft. · 14 available · $3,417+/month
+- 🆕 New floor plan **1 Bed, 1 Bath - A4** — 1 Bed | 1 Bath | 781 sq. ft. · 10 available · $3,501+/month
+- 🆕 New floor plan **1 Bed, 1 Bath - A5** — 1 Bed | 1 Bath | 772-774 sq. ft. · 7 available · $3,417+/month
+- 🆕 New floor plan **1 Bed, 1.5 Bath - A6** — 1 Bed | 1.5 Baths | 1,091 sq. ft. · Not available
+- 🆕 New floor plan **1 Bed, 1 Bath - A7** — 1 Bed | 1 Bath | 981 sq. ft. · Not available
+- 🆕 New floor plan **1 Bed, 1 Bath - A8** — 1 Bed | 1 Bath | 1,064 sq. ft. · Not available
+- 🆕 New floor plan **1 Bed, 1 Bath - A9** — 1 Bed | 1 Bath | 842 sq. ft. · Not available
+- 🆕 New floor plan **1 Bed, 1 Bath - A10** — 1 Bed | 1 Bath | 792 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed, 2 Bath- B1** — 2 Beds | 2 Baths | 1,217 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed, 2 Bath- B2** — 2 Beds | 2 Baths | 1,112 sq. ft. · 3 available · $4,671+/month
+- 🆕 New floor plan **2 Bed, 2 Bath - B3** — 2 Beds | 2 Baths | 1,134 sq. ft. · 1 available · $4,694+/month
+- 🆕 New floor plan **2 Bed, 2 Bath - B4** — 2 Beds | 2 Baths | 1,296 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed, 2 Bath - B5** — 2 Beds | 2 Baths | 1,160 sq. ft. · 2 available · $4,584+/month
+- 🆕 New floor plan **2 Bed, 2 Bath - B6** — 2 Beds | 2 Baths | 1,035 sq. ft. · 3 available · $4,569+/month
+- 🆕 New floor plan **2 Bed, 2 Bath - B7** — 2 Beds | 2 Baths | 1,036 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed, 2 Bath - B9** — 2 Beds | 2 Baths | 1,522 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed, 2 Bath - B10** — 2 Beds | 2 Baths | 1,298 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed, 1 Bath - B11** — 2 Beds | 1 Bath | 975 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed, 2 Bath - B12** — 2 Beds | 2 Baths | 1,196 sq. ft. · Not available
+- 🆕 New floor plan **2 Bed, 2 Bath - B13** — 2 Beds | 2 Baths | 1,115 sq. ft. · Not available
+- 🆕 New floor plan **3 Bed, 2 Bath - C1** — 3 Beds | 2 Baths | 1,502 sq. ft. · 3 available · $5,667+/month
+- 🆕 New floor plan **Heritage Select Townhome - B14T** — 2 Beds | 2.5 Baths | 1,923 sq. ft. · Not available
+- 🆕 New floor plan **3 Bed, 2 Bath - C2** — 3 Beds | 2 Baths | 1,540 sq. ft. · Not available
+- 🆕 New floor plan **3 Bed, 2 Bath - C4** — 3 Beds | 2 Baths | 1,331 sq. ft. · Not available
+- 🆕 New floor plan **Heritage Select 3 Bed, 2 Bath - C5** — 3 Beds | 2 Baths | 1,673 sq. ft. · 1 available · $6,789+/month
+- 🆕 New floor plan **Heritage Select Townhome - C7T** — 3 Beds | 2.5 Baths | 2,442 sq. ft. · Not available
+- ❌ Removed floor plan **5-31 E**
+- ❌ Removed floor plan **5-30 B**
+- ❌ Removed floor plan **Not Available**
+- ❌ Removed floor plan **17-45 K**
