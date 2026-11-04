@@ -373,3 +373,42 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - ❌ Removed floor plan **5-30 B**
 - ❌ Removed floor plan **Not Available**
 - ❌ Removed floor plan **17-45 K**
+
+## Nov 4, 2026, 2:19 AM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **5-31 E** — Studio | 1 Bath | 432 sq. ft. · Not available
+- 🆕 New floor plan **5-30 B** — 1 Bed | 1 Bath | 667 sq. ft. · Not available
+- 🆕 New floor plan **Not Available** — 1 Bed | 2 Baths | 775 sq. ft. · Not available
+- 🆕 New floor plan **17-45 K** — Studio | 1 Bath | 528 sq. ft. · Not available
+- ❌ Removed floor plan **Studio - S2**
+- ❌ Removed floor plan **1 Bed, 1 Bath - A1**
+- ❌ Removed floor plan **2 Bed 2 Bath - B8**
+- ❌ Removed floor plan **3 Bed, 2 Bath - C3**
+- ❌ Removed floor plan **Heritage Select Townhome - C6T**
+- ❌ Removed floor plan **Studio- S1**
+- ❌ Removed floor plan **1 Bed, 1 Bath - A2**
+- ❌ Removed floor plan **1 Bed, 1 Bath - A4**
+- ❌ Removed floor plan **1 Bed, 1 Bath - A5**
+- ❌ Removed floor plan **1 Bed, 1.5 Bath - A6**
+- ❌ Removed floor plan **1 Bed, 1 Bath - A7**
+- ❌ Removed floor plan **1 Bed, 1 Bath - A8**
+- ❌ Removed floor plan **1 Bed, 1 Bath - A9**
+- ❌ Removed floor plan **1 Bed, 1 Bath - A10**
+- ❌ Removed floor plan **2 Bed, 2 Bath- B1**
+- ❌ Removed floor plan **2 Bed, 2 Bath- B2**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B3**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B4**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B5**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B6**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B7**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B9**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B10**
+- ❌ Removed floor plan **2 Bed, 1 Bath - B11**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B12**
+- ❌ Removed floor plan **2 Bed, 2 Bath - B13**
+- ❌ Removed floor plan **3 Bed, 2 Bath - C1**
+- ❌ Removed floor plan **Heritage Select Townhome - B14T**
+- ❌ Removed floor plan **3 Bed, 2 Bath - C2**
+- ❌ Removed floor plan **3 Bed, 2 Bath - C4**
+- ❌ Removed floor plan **Heritage Select 3 Bed, 2 Bath - C5**
+- ❌ Removed floor plan **Heritage Select Townhome - C7T**

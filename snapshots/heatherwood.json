@@ -1,224 +1,28 @@
 {
-  "Studio - S2": {
-    "name": "Studio - S2",
-    "layout": "Studio | 1 Bath | 593 sq. ft.",
+  "5-31 E": {
+    "name": "5-31 E",
+    "layout": "Studio | 1 Bath | 432 sq. ft.",
     "available": false,
     "units": 0,
     "price": null
   },
-  "1 Bed, 1 Bath - A1": {
-    "name": "1 Bed, 1 Bath - A1",
-    "layout": "1 Bed | 1 Bath | 690 sq. ft.",
+  "5-30 B": {
+    "name": "5-30 B",
+    "layout": "1 Bed | 1 Bath | 667 sq. ft.",
     "available": false,
     "units": 0,
     "price": null
   },
-  "2 Bed 2 Bath - B8": {
-    "name": "2 Bed 2 Bath - B8",
-    "layout": "2 Beds | 2 Baths | 1,167 sq. ft.",
-    "available": true,
-    "units": 7,
-    "price": "$4,369+/month"
-  },
-  "3 Bed, 2 Bath - C3": {
-    "name": "3 Bed, 2 Bath - C3",
-    "layout": "3 Beds | 2 Baths | 1,482 sq. ft.",
-    "available": true,
-    "units": 5,
-    "price": "$5,967+/month"
-  },
-  "Heritage Select Townhome - C6T": {
-    "name": "Heritage Select Townhome - C6T",
-    "layout": "3 Beds | 2.5 Baths | 2,412 sq. ft.",
+  "Not Available": {
+    "name": "Not Available",
+    "layout": "1 Bed | 2 Baths | 775 sq. ft.",
     "available": false,
     "units": 0,
     "price": null
   },
-  "Studio- S1": {
-    "name": "Studio- S1",
-    "layout": "Studio | 1 Bath | 530 sq. ft.",
-    "available": true,
-    "units": 1,
-    "price": "$2,984+/month"
-  },
-  "1 Bed, 1 Bath - A2": {
-    "name": "1 Bed, 1 Bath - A2",
-    "layout": "1 Bed | 1 Bath | 743-748 sq. ft.",
-    "available": true,
-    "units": 14,
-    "price": "$3,417+/month"
-  },
-  "1 Bed, 1 Bath - A4": {
-    "name": "1 Bed, 1 Bath - A4",
-    "layout": "1 Bed | 1 Bath | 781 sq. ft.",
-    "available": true,
-    "units": 10,
-    "price": "$3,501+/month"
-  },
-  "1 Bed, 1 Bath - A5": {
-    "name": "1 Bed, 1 Bath - A5",
-    "layout": "1 Bed | 1 Bath | 772-774 sq. ft.",
-    "available": true,
-    "units": 7,
-    "price": "$3,417+/month"
-  },
-  "1 Bed, 1.5 Bath - A6": {
-    "name": "1 Bed, 1.5 Bath - A6",
-    "layout": "1 Bed | 1.5 Baths | 1,091 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "1 Bed, 1 Bath - A7": {
-    "name": "1 Bed, 1 Bath - A7",
-    "layout": "1 Bed | 1 Bath | 981 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "1 Bed, 1 Bath - A8": {
-    "name": "1 Bed, 1 Bath - A8",
-    "layout": "1 Bed | 1 Bath | 1,064 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "1 Bed, 1 Bath - A9": {
-    "name": "1 Bed, 1 Bath - A9",
-    "layout": "1 Bed | 1 Bath | 842 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "1 Bed, 1 Bath - A10": {
-    "name": "1 Bed, 1 Bath - A10",
-    "layout": "1 Bed | 1 Bath | 792 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "2 Bed, 2 Bath- B1": {
-    "name": "2 Bed, 2 Bath- B1",
-    "layout": "2 Beds | 2 Baths | 1,217 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "2 Bed, 2 Bath- B2": {
-    "name": "2 Bed, 2 Bath- B2",
-    "layout": "2 Beds | 2 Baths | 1,112 sq. ft.",
-    "available": true,
-    "units": 3,
-    "price": "$4,671+/month"
-  },
-  "2 Bed, 2 Bath - B3": {
-    "name": "2 Bed, 2 Bath - B3",
-    "layout": "2 Beds | 2 Baths | 1,134 sq. ft.",
-    "available": true,
-    "units": 1,
-    "price": "$4,694+/month"
-  },
-  "2 Bed, 2 Bath - B4": {
-    "name": "2 Bed, 2 Bath - B4",
-    "layout": "2 Beds | 2 Baths | 1,296 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "2 Bed, 2 Bath - B5": {
-    "name": "2 Bed, 2 Bath - B5",
-    "layout": "2 Beds | 2 Baths | 1,160 sq. ft.",
-    "available": true,
-    "units": 2,
-    "price": "$4,584+/month"
-  },
-  "2 Bed, 2 Bath - B6": {
-    "name": "2 Bed, 2 Bath - B6",
-    "layout": "2 Beds | 2 Baths | 1,035 sq. ft.",
-    "available": true,
-    "units": 3,
-    "price": "$4,569+/month"
-  },
-  "2 Bed, 2 Bath - B7": {
-    "name": "2 Bed, 2 Bath - B7",
-    "layout": "2 Beds | 2 Baths | 1,036 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "2 Bed, 2 Bath - B9": {
-    "name": "2 Bed, 2 Bath - B9",
-    "layout": "2 Beds | 2 Baths | 1,522 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "2 Bed, 2 Bath - B10": {
-    "name": "2 Bed, 2 Bath - B10",
-    "layout": "2 Beds | 2 Baths | 1,298 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "2 Bed, 1 Bath - B11": {
-    "name": "2 Bed, 1 Bath - B11",
-    "layout": "2 Beds | 1 Bath | 975 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "2 Bed, 2 Bath - B12": {
-    "name": "2 Bed, 2 Bath - B12",
-    "layout": "2 Beds | 2 Baths | 1,196 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "2 Bed, 2 Bath - B13": {
-    "name": "2 Bed, 2 Bath - B13",
-    "layout": "2 Beds | 2 Baths | 1,115 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "3 Bed, 2 Bath - C1": {
-    "name": "3 Bed, 2 Bath - C1",
-    "layout": "3 Beds | 2 Baths | 1,502 sq. ft.",
-    "available": true,
-    "units": 3,
-    "price": "$5,667+/month"
-  },
-  "Heritage Select Townhome - B14T": {
-    "name": "Heritage Select Townhome - B14T",
-    "layout": "2 Beds | 2.5 Baths | 1,923 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "3 Bed, 2 Bath - C2": {
-    "name": "3 Bed, 2 Bath - C2",
-    "layout": "3 Beds | 2 Baths | 1,540 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "3 Bed, 2 Bath - C4": {
-    "name": "3 Bed, 2 Bath - C4",
-    "layout": "3 Beds | 2 Baths | 1,331 sq. ft.",
-    "available": false,
-    "units": 0,
-    "price": null
-  },
-  "Heritage Select 3 Bed, 2 Bath - C5": {
-    "name": "Heritage Select 3 Bed, 2 Bath - C5",
-    "layout": "3 Beds | 2 Baths | 1,673 sq. ft.",
-    "available": true,
-    "units": 1,
-    "price": "$6,789+/month"
-  },
-  "Heritage Select Townhome - C7T": {
-    "name": "Heritage Select Townhome - C7T",
-    "layout": "3 Beds | 2.5 Baths | 2,442 sq. ft.",
+  "17-45 K": {
+    "name": "17-45 K",
+    "layout": "Studio | 1 Bath | 528 sq. ft.",
     "available": false,
     "units": 0,
     "price": null
