@@ -412,3 +412,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - ❌ Removed floor plan **3 Bed, 2 Bath - C4**
 - ❌ Removed floor plan **Heritage Select 3 Bed, 2 Bath - C5**
 - ❌ Removed floor plan **Heritage Select Townhome - C7T**
+
+## Nov 7, 2026, 12:55 AM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **4C** — 1 Bed | 2 Baths | 775 sq. ft. · Not available
+- ❌ Removed floor plan **Not Available**
