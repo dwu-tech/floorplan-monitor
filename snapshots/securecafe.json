@@ -9,9 +9,9 @@
   "5-30 B": {
     "name": "5-30 B",
     "layout": "1 Bed - 1 Bath | 667 sq.ft.",
-    "available": false,
+    "available": true,
     "units": null,
-    "price": null
+    "price": "$4,340.43"
   },
   "4C": {
     "name": "4C",

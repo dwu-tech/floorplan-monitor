@@ -422,3 +422,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **5-30 B** is now AVAILABLE (1 Bed | 1 Bath | 667 sq. ft.) · 1 unit(s) · $4,340+/month
 - 💲 **5-30 B** price changed: n/a → $4,340+/month
+
+## Nov 7, 2026, 8:45 AM — SecureCafe (leasing portal)
+
+- ✅ **5-30 B** is now AVAILABLE (1 Bed - 1 Bath | 667 sq.ft.) · $4,340.43
+- 💲 **5-30 B** price changed: n/a → $4,340.43
