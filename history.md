@@ -462,3 +462,11 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - 🆕 New floor plan **17-45 J** — 1 Bed | 1 Bath | 668 sq. ft. · Not available
 - ❌ Removed floor plan **4C**
 - ❌ Removed floor plan **17-45 K**
+
+## Nov 11, 2026, 11:19 PM — SecureCafe (leasing portal)
+
+- 🆕 New floor plan **4-45 F** — 1 Bed - 1 Bath | 720 sq.ft. · $4,056.59
+- 🆕 New floor plan **32-57 E** — Studio | 427 sq.ft. · Not available
+- 🆕 New floor plan **17-45 J** — 1 Bed - 1 Bath | 668 sq.ft. · Not available
+- ❌ Removed floor plan **4C**
+- ❌ Removed floor plan **17-45 K**
