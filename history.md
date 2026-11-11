@@ -454,3 +454,11 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **5-30 B** is now AVAILABLE (1 Bed | 1 Bath | 667 sq. ft.) · 1 unit(s) · $4,340+/month
 - 💲 **5-30 B** price changed: n/a → $4,340+/month
+
+## Nov 11, 2026, 10:59 PM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **4-45 F** — 1 Bed | 1 Bath | 720 sq. ft. · 1 available · $4,056+/month
+- 🆕 New floor plan **32-57 E** — Studio | 0 Bath | | 427 sq. ft. · 1 available · $-1+/month
+- 🆕 New floor plan **17-45 J** — 1 Bed | 1 Bath | 668 sq. ft. · Not available
+- ❌ Removed floor plan **4C**
+- ❌ Removed floor plan **17-45 K**
