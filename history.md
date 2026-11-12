@@ -478,3 +478,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Nov 12, 2026, 2:03 AM — Heatherwood (marketing site)
 
 - ⛔ **4-45 F** is no longer available
+
+## Nov 12, 2026, 5:47 AM — SecureCafe (leasing portal)
+
+- ✅ **32-57 E** is now AVAILABLE (Studio | 427 sq.ft.) · $3,580.67
+- 💲 **32-57 E** price changed: n/a → $3,580.67
