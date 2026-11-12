@@ -16,9 +16,9 @@
   "4-45 F": {
     "name": "4-45 F",
     "layout": "1 Bed | 1 Bath | 720 sq. ft.",
-    "available": true,
-    "units": 1,
-    "price": "$4,056+/month"
+    "available": false,
+    "units": 0,
+    "price": null
   },
   "32-57 E": {
     "name": "32-57 E",
