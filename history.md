@@ -487,3 +487,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Nov 12, 2026, 6:34 AM — Heatherwood (marketing site)
 
 - 💲 **32-57 E** price changed: $-1+/month → $3,580+/month
+
+## Nov 14, 2026, 5:05 PM — SecureCafe (leasing portal)
+
+- ⛔ **5-30 B** is no longer available
+- ⛔ **32-57 E** is no longer available
