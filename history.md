@@ -497,3 +497,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ⛔ **5-30 B** is no longer available
 - ⛔ **32-57 E** is no longer available
+
+## Nov 14, 2026, 7:51 PM — SecureCafe (leasing portal)
+
+- ✅ **32-57 E** is now AVAILABLE (Studio | 427 sq.ft.) · $3,580.67
+- 💲 **32-57 E** price changed: n/a → $3,580.67
