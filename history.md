@@ -521,3 +521,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **4-45 F** is now AVAILABLE (1 Bed - 1 Bath | 720 sq.ft.) · $4,056.59
 - 💲 **4-45 F** price changed: n/a → $4,056.59
+
+## Nov 16, 2026, 6:05 PM — Heatherwood (marketing site)
+
+- ✅ **4-45 F** is now AVAILABLE (1 Bed | 1 Bath | 720 sq. ft.) · 1 unit(s) · $4,056+/month
+- 💲 **4-45 F** price changed: n/a → $4,056+/month
