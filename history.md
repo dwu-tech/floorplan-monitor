@@ -550,3 +550,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Nov 19, 2026, 9:27 PM — Heatherwood (marketing site)
 
 - 🆕 New floor plan **5-45 H** — 1 Bed | 1 Bath | 723 sq. ft. · 1 available · $-1+/month
+
+## Nov 19, 2026, 10:06 PM — Heatherwood (marketing site)
+
+- ⛔ **5-45 H** is no longer available
