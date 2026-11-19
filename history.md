@@ -546,3 +546,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Nov 19, 2026, 7:49 PM — SecureCafe (leasing portal)
 
 - 🆕 New floor plan **5-45 H** — 1 Bed - 1 Bath | 723 sq.ft. · Not available
+
+## Nov 19, 2026, 9:27 PM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **5-45 H** — 1 Bed | 1 Bath | 723 sq. ft. · 1 available · $-1+/month

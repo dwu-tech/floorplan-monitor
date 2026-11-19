@@ -1,4 +1,11 @@
 {
+  "5-45 H": {
+    "name": "5-45 H",
+    "layout": "1 Bed | 1 Bath | 723 sq. ft.",
+    "available": true,
+    "units": 1,
+    "price": "$-1+/month"
+  },
   "5-31 E": {
     "name": "5-31 E",
     "layout": "Studio | 1 Bath | 432 sq. ft.",
