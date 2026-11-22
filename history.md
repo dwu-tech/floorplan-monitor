@@ -559,3 +559,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **32-57 E** is now AVAILABLE (Studio | 427 sq.ft.) · $3,580.67
 - 💲 **32-57 E** price changed: n/a → $3,580.67
+
+## Nov 22, 2026, 5:53 AM — Heatherwood (marketing site)
+
+- ✅ **32-57 E** is now AVAILABLE (Studio | 0 Bath | | 427 sq. ft.) · 1 unit(s) · $3,580+/month
+- 💲 **32-57 E** price changed: n/a → $3,580+/month
