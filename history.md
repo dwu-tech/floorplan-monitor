@@ -594,3 +594,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 - 🆕 New floor plan **32-57 C** — 3 Bed - 2 Bath | 1,305 sq.ft. · Not available
 - ❌ Removed floor plan **5-31 E**
 - ❌ Removed floor plan **17-45 J**
+
+## Nov 24, 2026, 7:55 PM — Heatherwood (marketing site)
+
+- ⛔ **32-57 C** is no longer available
