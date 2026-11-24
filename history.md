@@ -582,3 +582,9 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 
 - ✅ **5-30 B** is now AVAILABLE (1 Bed - 1 Bath | 667 sq.ft.) · $4,470.64
 - 💲 **5-30 B** price changed: n/a → $4,470.64
+
+## Nov 24, 2026, 7:10 PM — Heatherwood (marketing site)
+
+- 🆕 New floor plan **32-57 C** — 3 Beds | 2 Baths | 1,305 sq. ft. · 1 available · $-1+/month
+- ❌ Removed floor plan **5-31 E**
+- ❌ Removed floor plan **17-45 J**
