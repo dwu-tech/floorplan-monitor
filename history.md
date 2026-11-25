@@ -598,3 +598,7 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Nov 24, 2026, 7:55 PM — Heatherwood (marketing site)
 
 - ⛔ **32-57 C** is no longer available
+
+## Nov 25, 2026, 5:24 PM — Heatherwood (marketing site)
+
+- ⛔ **5-30 B** is no longer available
