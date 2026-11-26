@@ -606,3 +606,8 @@ Times are US Eastern. See `git log` for exact commit timestamps and `git diff` f
 ## Nov 26, 2026, 1:11 AM — SecureCafe (leasing portal)
 
 - ⛔ **5-30 B** is no longer available
+
+## Nov 26, 2026, 5:47 AM — SecureCafe (leasing portal)
+
+- ✅ **5-45 H** is now AVAILABLE (1 Bed - 1 Bath | 723 sq.ft.) · $4,001.52
+- 💲 **5-45 H** price changed: n/a → $4,001.52
